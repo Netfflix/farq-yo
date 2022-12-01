@@ -1,0 +1,545 @@
+/* 
+
+body{
+    background-color: black;
+}
+
+.tun{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 100px auto;
+    box-shadow: 0 0 15px 5 white;
+}
+
+.kun{
+    background-color: gold;
+    box-shadow: 0 0 15px 5px gold;
+}
+
+.orqa{
+    background-color: white;
+} */
+
+/* .main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card{
+    width: 350px;
+    height: auto;
+    border: 2px solid grey;
+    text-align: center;
+    margin-top: 15px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+.katta{
+    border-radius: 50%;
+}
+
+.katta1{
+    margin-left: 400px;
+    margin-top: -570px;
+    border-radius: 50%;
+}
+.kicik1{
+    margin-left: 400px;
+    margin-top: -570px;
+    border-radius: 50%;
+}
+.kicik{
+    border-radius: 50%;
+} */
+
+
+/* .margin{
+    margin-left: 50px;
+    border-radius: 10px;
+    border-color: cornflowerblue;
+    color: blue;
+}
+
+.margin1{
+    border-radius: 10px;
+    border-color: cornflowerblue;
+    color: blue;
+}
+
+.margin3{
+    border-radius: 10px;
+    border-color: cornflowerblue;
+    color: blue;
+}
+
+.lol{
+    margin: 10px 240px;
+    background-color: white;
+    border-color: blue;
+    color: blue;
+    border-radius: 10px;
+    height: 40px;
+}
+.lol{
+    margin: 10px 240px;
+    background-color: white;
+    border-color: blue;
+    color: blue;
+    border-radius: 10px;
+    height: 40px;
+}.lol1{
+    margin: 10px 240px;
+    background-color: white;
+    border-color: blue;
+    color: blue;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.pages{
+    width: 300px;
+}
+
+
+
+
+.pages2{
+    width: 300px;
+} */
+
+
+
+/* .container{
+    margin-top: 50px;
+    width: 80%;
+    margin: 50px auto;
+    flex-wrap: wrap;
+}
+
+.items{
+    width: 250px;
+    height: 50px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.cart{
+    width: 250px;
+    height: 50px;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 685px;
+}
+
+.select{
+    width: 350px;
+}
+
+.h3{
+    color: blue;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.input1{
+    margin-left: 300px;
+    width: 150px;
+    height: 50px;
+}
+
+.input2{
+    margin-left: 40px;
+    width: 150px;
+    height: 50px; 
+}
+
+.search{
+    height: 50px;
+    font-size: 20px;
+}
+
+.card{
+    margin: 20px;
+    border: 2px solid blue;
+}
+
+.image{
+    display: block;
+    width: 270px;
+    margin: 40px auto 10px;
+}
+
+.name{
+    color: blue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 520;
+}
+
+.buy{
+    width: 270px;
+    margin: 20px auto 25px;
+}
+
+.cardla{
+    margin: 20px auto;
+    justify-content: space-around;
+}
+
+.badge{
+    margin-top: 49px;
+    margin-left: 160px;
+    width: 40px;
+    height: 20px;
+}
+
+.num{
+    font-size: 12px;
+} */
+
+
+/* .h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, Arial, Helvetica, sans-serif;
+    margin: 15px 120px;
+
+}
+.story{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid slategrey;
+    border-radius: 35px;
+    overflow-x: auto;
+}
+.story::-webkit-scrollbar{
+    display: none;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+}
+.post{
+    width: 600px; 
+    height: 500px;
+    margin: 15px;
+}
+.border{
+    flex-wrap: wrap;
+    margin: 10px;
+    border-radius: 25px;
+} */
+
+/* 
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.link{
+    display: flex;
+    margin: 5px;
+}
+
+.i{
+    font-size: 40px;
+    background-color: white;
+}
+
+.a{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.input{
+    margin: 10px;
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 0 20px;
+    border-color: black;
+}
+
+
+.tegg{
+    margin-left: 450px;
+    margin-top: -50px;
+    font-size: 25px;
+    width: 50px;
+    height: 40px;
+    text-align: center;
+}
+
+
+.i1{
+    color: black;
+    width: 40px;
+    font-size: 25px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: -38px;
+    margin-left: 60px;
+}
+
+.login{
+    display: flex;
+    text-align: center;
+    color: black;
+    width: 40px;
+    font-size: 20px;
+    height: 40px;
+    margin: 10px 100px;
+}
+
+.i2{
+    margin: 0 20px;
+}
+
+.img{
+    margin-top: -10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+
+.hous{
+    width: 150px;
+    height: 400px;
+}
+
+.home{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+.potp{
+    font-size: 25px;
+    padding: 10px 22px;
+}
+.h6{
+    padding: 0 7px;
+}
+
+.short{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+.subcrp{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+.library{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+.home:hover{
+    background-color: grey;
+}
+
+.short:hover{
+    background-color: grey;
+}
+
+.subcrp:hover{
+    background-color: grey;
+}
+
+.library:hover{
+    background-color: grey;
+}
+
+
+.button{
+    margin-top: -400px;
+    margin-left: 400px;
+}
+
+
+.busst{
+    margin-left: 50px;
+}
+
+.youtubeBox{
+    margin: 50px;
+} */
+
+
+
+/* .selectt{
+    border-radius: 10px;
+    border-color: grey;
+    color: gray;
+    width: 350px;
+    height: 50px;
+}
+
+.sd{
+    width: 190px;
+    height: 48px;
+    border-radius: 10px;
+    border-color: grey;
+    background-color: white;
+    padding-right: 120px;
+    border: solid 1px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.selectt:hover{
+    background-color: grey;
+    box-shadow: 0 0 2px 2px grey;
+    color: white;
+    border: solid 1px;
+}
+
+.sd:hover{
+    border: 0;
+    background-color: grey;
+    color: white;
+    border: solid 1px;
+}
+
+.inpt01{
+    border-radius: 10px;
+    border-color: grey;
+    border: solid 1px;
+    color: gray;
+    width: 1300px;
+    height: 50px;
+    margin: 10px 310px;
+    padding-left: 50px;
+}
+
+.inpt01:hover{
+    border: solid 1px;
+
+}
+
+.i1{
+    font-size: 25px;
+    color: green;
+    
+}
+
+.i{
+    margin-top: -46px;
+    margin-left: 325px;
+}
+
+.imeges{
+    width: 1300px;
+    margin: 10px 310px;
+}
+
+.stors{
+    margin: 10px 30px;
+}
+
+.circle{
+    width: 1300px;
+    margin: 10px 310px;
+}
+
+.yoto{
+    width: 100%;
+}
+
+
+.btn{
+    margin-left: 1200px;
+    margin-top: -15px;
+}
+
+.ad{
+    width: 290px;
+    height: 35px;
+    border-radius: 10px;
+    border-color: green;
+    background-color: white;
+    border: solid 1px;
+}
+
+.ad:hover{
+    border: 0;
+    background-color: green;
+    color: white;
+    border: solid 1px;
+}
+
+
+.card{
+    text-align: center;
+}
+
+.jmm{
+    width: 100%;
+}
+
+.pop{
+    color: green;
+} */
+
+
+.heat{
+    display: flex;
+}
+
+.left{
+    width: 800px;
+}
+
+.right{
+    width: 900px;
+    margin: 0;
+}
+
+.inpt{
+    width: 555px;
+    height: 45px;
+    border-radius: 15px;
+    border: solid 2px black;
+    padding: 0 20px;
+}
+
+.acore{
+    font-size: 25px;
+}
+.bcore{
+    font-size: 25px;
+}
+
+.ikns{
+    font-size: 30px;
+}
